@@ -1,9 +1,9 @@
 # LLM-swiss-education-paper
-# 📘 Large Language Models – Text Analysis and Generation in the Era of Generative AI
+# Large Language Models – Text Analysis and Generation in the Era of Generative AI
 
 This repository contains the research summary and academic report of a master's-level paper focused on **Large Language Models (LLMs)** and their application across key domains in the DACH region, with a focus on Switzerland.
 
-## 📚 Project Context
+## Project Context
 
 This work was created as part of an applied research module (AFE1) at the **Lucerne University of Applied Sciences and Arts (HSLU)** and the **Fernfachhochschule Schweiz (FFHS)** in spring 2024.
 
@@ -11,7 +11,7 @@ The paper provides both technical and application-oriented insights into LLMs, l
 
 ---
 
-## 🧠 Overview
+## Overview
 
 - **Architecture Focus:** NLP, NLU, NLG, LoRA, fine-tuning
 - **Use Cases Covered:**  
@@ -34,7 +34,6 @@ The paper provides both technical and application-oriented insights into LLMs, l
 ```
 ├── AFE1_LLM_Paper.pdf
 ├── README.md
-└── (optional) slides/, summary/, notes/
 ```
 
 ---
